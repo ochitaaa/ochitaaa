@@ -2,7 +2,7 @@
 I'm Rosita, welcome to my GitHub profile.
 
 ## 💫 About Me:
-🔭 I’m currently working on data analytics and machine learning projects to strengthen my portfolio, focusing on real-world datasets and business insights.<br>🤝 I’m looking to collaborate on data analysis, visualization, and research-driven projects.<br>🌱 I’m currently learning machine learning, SQL, data visualization, and statistical modeling.<br>⚡ Fun fact : I enjoy working with coffee ☕<br><br>💬 Let’s connect — always open to learning, collaboration, and new opportunities.
+🔭 I’m currently working on data analytics and machine learning projects to strengthen my portfolio, focusing on real-world datasets and business insights.<br>🤝 I’m looking to collaborate on data analysis, visualization, and research-driven projects.<br>🌱 I’m currently learning machine learning, SQL, data visualization, and statistical modeling.<br>⚡ Fun fact : I enjoy working with coffee ☕<br><br>💬 Let’s connect — I’m always open to learning, collaboration, and new opportunities.
 
 
 ## 🌐 Socials:
